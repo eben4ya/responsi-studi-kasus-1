@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : Benaya Imanuela
+NIU : 494790
+Sesi : B1
+Secret String : d8aabcb33162f245a5e5900960b7286b59e813267da863ddf205d48b3b2f579420250523010835
 
 ## Checklist Responsi
 
